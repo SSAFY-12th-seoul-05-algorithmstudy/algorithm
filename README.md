@@ -5,21 +5,44 @@
 `SSAFY 12기_서울_5반` 을 위한 알고리즘 스터디입니다.
 
 참여 희망자는 `@김지승[서울_5반]` 에게 MM 주시면 됩니다.
+
+<br><br>
+
+# 💡스터디 소개
+- **일시** : 월(21:00 ~ 23:00) / 목 (20:00 ~ 22:00)
+- **장소** : 온라인 (디스코드)
+
 <br>
 
+### 📌스터디 목표
+
+1. 다가오는 IM테스트에서 IM등급따고, A 혹은 A+ 노리기!!
+2. 스터디원들과 함께 공부하며 성장하기!!
+3. 5반 BOJ 그룹 (https://www.acmicpc.net/group/21409) 에 문제 올리기!
 
 
----
+<br>
 
-### Team Profile (추가예정?)
+# Team Profile
+| 김지승 | 김현진 | 조희주 | 김민성 | 윤수정 |
+| :---: | :---: | :---: | :---: | :---: |
+| <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/154870548?v=4" style="width:100px;"/></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/121915790?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px; border-radius: 50%" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> |
+| [@kimsz123456](https://github.com/kimsz123456) | [@hyun0zin](https://github.com/hyun0zin) | [@he2joojo](https://github.com/he2joojo) | [@kimsz123456](https://github.com/kimsz123456) | [@kimsz123456](https://github.com/kimsz123456) |
+| 스터디장 | 팀원 | 팀원 | 팀원 | 팀원 |
+
+| 이성희 | 오정연 | 방민규 | 홍나연 | 김윤지 |
+| :---: | :---: | :---: | :---: | :---: |
+| <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> |
+| [@kimsz123456](https://github.com/kimsz123456) | [@kimsz123456](https://github.com/kimsz123456) | [@kimsz123456](https://github.com/kimsz123456) | [@kimsz123456](https://github.com/kimsz123456) | [@kimsz123456](https://github.com/kimsz123456) |
+| 팀원 | 팀원 | 팀원 | 팀원 | 팀원 |
+
 
 <br><br>
 
 
 
----
 
-## 📜진행방식
+# 📜진행방식
 
 ### Git
 0. 자리 옮긴 후, git 계정 설정 방법
@@ -153,11 +176,7 @@ PR Comment :
 
 <br>
 
-### 📌스터디 목표
 
-1. 다가오는 IM테스트에서 IM등급따고, A 혹은 A+ 노리기!!
-2. 스터디원들과 함께 공부하며 성장하기!!
-3. 5반 BOJ 그룹 (https://www.acmicpc.net/group/21409) 에 문제 올리기!
 
 
 ---
