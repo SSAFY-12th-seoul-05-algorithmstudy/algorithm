@@ -26,14 +26,14 @@
 # Team Profile
 | 김지승 | 김현진 | 조희주 | 김민성 | 윤수정 |
 | :---: | :---: | :---: | :---: | :---: |
-| <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/154870548?v=4" style="width:100px;"/></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/121915790?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px; border-radius: 50%" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> |
-| [@kimsz123456](https://github.com/kimsz123456) | [@hyun0zin](https://github.com/hyun0zin) | [@he2joojo](https://github.com/he2joojo) | [@kimsz123456](https://github.com/kimsz123456) | [@kimsz123456](https://github.com/kimsz123456) |
+| <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/154870548?v=4" style="width:100px;"/></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/121915790?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/163739681?v=4" style="width:100px; border-radius: 50%" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/168540696?v=4" style="width:100px;" /></p> |
+| [@kimsz123456](https://github.com/kimsz123456) | [@hyun0zin](https://github.com/hyun0zin) | [@he2joojo](https://github.com/he2joojo) | [@MINSSUNGKIM](https://github.com/MINSSUNGKIM) | [@yunsujung](https://github.com/yunsujung) |
 | 스터디장 | 팀원 | 팀원 | 팀원 | 팀원 |
 
-| 이성희 | 오정연 | 방민규 | 홍나연 | 김윤지 |
+| 이성희 | 강두식 | 방민규 | 홍나연 | 김윤지 |
 | :---: | :---: | :---: | :---: | :---: |
-| <p align="center"><img src="https://avatars.githubusercontent.com/u/44632544?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/96762267?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> |
-| [@LeeSeongHui](https://github.com/LeeSeongHui) | [@kimsz123456](https://github.com/kimsz123456) | [@kimsz123456](https://github.com/kimsz123456) | [@01HongNa](https://github.com/01HongNa) | [@kimsz123456](https://github.com/kimsz123456) |
+| <p align="center"><img src="https://avatars.githubusercontent.com/u/44632544?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/87954515?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/96762267?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/140465587?v=4" style="width:100px;" /></p> |
+| [@LeeSeongHui](https://github.com/LeeSeongHui) | [@strongdoosik](https://github.com/strongdoosik) | [@bangmq](https://github.com/bangmq) | [@01HongNa](https://github.com/01HongNa) | [@ximvamom](https://github.com/ximvamom) |
 | 팀원 | 팀원 | 팀원 | 팀원 | 팀원 |
 
 
