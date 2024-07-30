@@ -32,8 +32,8 @@
 
 | 이성희 | 오정연 | 방민규 | 홍나연 | 김윤지 |
 | :---: | :---: | :---: | :---: | :---: |
-| <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> |
-| [@kimsz123456](https://github.com/kimsz123456) | [@kimsz123456](https://github.com/kimsz123456) | [@kimsz123456](https://github.com/kimsz123456) | [@kimsz123456](https://github.com/kimsz123456) | [@kimsz123456](https://github.com/kimsz123456) |
+| <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/96762267?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> |
+| [@kimsz123456](https://github.com/kimsz123456) | [@kimsz123456](https://github.com/kimsz123456) | [@kimsz123456](https://github.com/kimsz123456) | [@01HongNa](https://github.com/01HongNa) | [@kimsz123456](https://github.com/kimsz123456) |
 | 팀원 | 팀원 | 팀원 | 팀원 | 팀원 |
 
 
