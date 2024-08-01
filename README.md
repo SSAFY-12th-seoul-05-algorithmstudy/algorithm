@@ -32,7 +32,7 @@
 
 | 이성희 | 강두식 | 방민규 | 홍나연 | 김윤지 |
 | :---: | :---: | :---: | :---: | :---: |
-| <p align="center"><img src="https://avatars.githubusercontent.com/u/44632544?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/87954515?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/96762267?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/140465587?v=4" style="width:100px;" /></p> |
+| <p align="center"><img src="https://avatars.githubusercontent.com/u/44632544?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/169317520?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/87954515?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/96762267?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/140465587?v=4" style="width:100px;" /></p> |
 | [@LeeSeongHui](https://github.com/LeeSeongHui) | [@strongdoosik](https://github.com/strongdoosik) | [@bangmq](https://github.com/bangmq) | [@01HongNa](https://github.com/01HongNa) | [@ximvamom](https://github.com/ximvamom) |
 | 팀원 | 팀원 | 팀원 | 팀원 | 팀원 |
 
@@ -61,25 +61,13 @@
 
 
 
-
+<br>
 
 상세설명 :
+
 <br>
+
 ※ GIT 기초 ((https://vivacious-coyote-b68.notion.site/Git-c7bf18f26a7a489d837fe7d3ed0837b4))
-
-1. [Eclipse로 시작하기 튜토리얼](.docs/GETTING_STARTED.md)
-
-
-2. [IntelliJ로 시작하기 튜토리얼](.docs/GETTING_STARTED_intellJ.md)
-
-
-3. [PR 가이드](.docs/PULL_REQUESTS_GUIDE.md)
-
-
-4. [코드리뷰 가이드](.docs/CODE_REVIEW_GUIDE.md)
-
-
-5. [본인 폴더만 Clone 하기](.docs/Only_My_Folder_Clone_Guide.md)
 
 
 <br>
