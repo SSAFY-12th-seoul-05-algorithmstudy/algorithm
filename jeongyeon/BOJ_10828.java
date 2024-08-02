@@ -3,7 +3,7 @@ package stack_10828;
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class BOJ_10828 {
 	public static void main(String[] args) throws IOException {
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
