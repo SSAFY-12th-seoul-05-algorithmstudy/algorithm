@@ -12,13 +12,20 @@
 - **일시** : 월(21:00 ~ 23:00) / 목 (20:00 ~ 22:00)
 - **장소** : 온라인 (디스코드)
 
+  <br>
+  
+- **깃허브 주소** : https://github.com/SSAFY-12th-seoul-05-algorithmstudy
+- **강의** : https://blog.encrypted.gg/
+- **문제** : https://www.acmicpc.net/group/21409 (5반 백준클럽) 
+- **디스코드** : https://discord.gg/tafzBS6d
+
 <br>
 
 ### 📌스터디 목표
 
 1. 다가오는 IM테스트에서 IM등급따고, A 혹은 A+ 노리기!!
 2. 스터디원들과 함께 공부하며 성장하기!!
-3. 5반 BOJ 그룹 (https://www.acmicpc.net/group/21409) 에 문제 올리기!
+3. 5반 BOJ 그룹에 문제 올리기!
 
 
 <br>
@@ -29,10 +36,8 @@
 | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/154870548?v=4" style="width:100px;"/></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/121915790?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/163739681?v=4" style="width:100px; border-radius: 50%" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/168540696?v=4" style="width:100px;" /></p> |
 | [@kimsz123456](https://github.com/kimsz123456) | [@hyun0zin](https://github.com/hyun0zin) | [@he2joojo](https://github.com/he2joojo) | [@MINSSUNGKIM](https://github.com/MINSSUNGKIM) | [@yunsujung](https://github.com/yunsujung) |
 | 스터디장 | 팀원 | 팀원 | 팀원 | 팀원 |
-
-| 이성희 | 강두식 | 방민규 | 홍나연 | 김윤지 |
-| :---: | :---: | :---: | :---: | :---: |
-| <p align="center"><img src="https://avatars.githubusercontent.com/u/44632544?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/152263125?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/87954515?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/96762267?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/140465587?v=4" style="width:100px;" /></p> |
+| **이성희** | **강두식** | **방민규** | **홍나연** | **김윤지** |
+| <p align="center"><img src="https://avatars.githubusercontent.com/u/44632544?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/169317520?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/87954515?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/96762267?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/140465587?v=4" style="width:100px;" /></p> |
 | [@LeeSeongHui](https://github.com/LeeSeongHui) | [@strongdoosik](https://github.com/strongdoosik) | [@bangmq](https://github.com/bangmq) | [@01HongNa](https://github.com/01HongNa) | [@ximvamom](https://github.com/ximvamom) |
 | 팀원 | 팀원 | 팀원 | 팀원 | 팀원 |
 
@@ -57,39 +62,24 @@
 2. 해당 폴더에서 git bash 열고 branch 생성 후 이동 (git checkout -b 브랜치 이름)
     -   <sub style="color: rgba(0, 0, 0, 0.8); margin-left: 20px;"> 브랜치 생성 : git checkout -b kjs</sub>
     -   <sub style="color: rgba(0, 0, 0, 0.8); margin-left: 20px;"> 브랜치 이동 : git checkout main</sub>
-3. 알고리즘문제 해결 후 작업 끝나면 add -> commit -> push (이 때, 브랜치 확인 필수)
+3. 알고리즘문제 해결 후 작업 끝나면 `add -> commit -> push` (이 때, 브랜치 확인 필수)
+4. 스터디 이후 조원들의 Approve를 받아, main에 merge한다.
+5. 스터디 종료 이후 본인 브랜치에서 `git pull origin main` 하기
 
 
 
-
+<br>
 
 상세설명 :
+
 <br>
+
 ※ GIT 기초 ((https://vivacious-coyote-b68.notion.site/Git-c7bf18f26a7a489d837fe7d3ed0837b4))
 
-1. [Eclipse로 시작하기 튜토리얼](.docs/GETTING_STARTED.md)
-
-
-2. [IntelliJ로 시작하기 튜토리얼](.docs/GETTING_STARTED_intellJ.md)
-
-
-3. [PR 가이드](.docs/PULL_REQUESTS_GUIDE.md)
-
-
-4. [코드리뷰 가이드](.docs/CODE_REVIEW_GUIDE.md)
-
-
-5. [본인 폴더만 Clone 하기](.docs/Only_My_Folder_Clone_Guide.md)
-
 
 <br>
 
-### 진행방식 (수정예정)
-
-※ 참고 
-바킹독 알고리즘 강의 (https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98?page=3)
-
-바킹독 백준 문제 모음(https://www.acmicpc.net/workbook/by/BaaaaaaaaaaarkingDog)
+### 진행방식
 
 1. 주 2회 진행하며, 하루는 강의듣고 발표 + 3문제 코드리뷰, 하루는 4문제 코드리뷰를 진행한다.
 
@@ -98,39 +88,38 @@
 2. 모임시간 전까지 문제를 풀고 PR한다. (3문제 / 4문제)
 
     -   <sub style="color: rgba(0, 0, 0, 0.8); margin-left: 20px;"> 풀지 못한 문제의 경우에도 시도한 코드를 PR 날린다.</sub>
+    -   <sub style="color: rgba(0, 0, 0, 0.8); margin-left: 20px;"> 스터디 전, 스터디원 PR에 코드 리뷰 진행(코멘트 남기기) </sub>
 
-3. 각자 푼 문제에 대한 간단한 리뷰를 진행한다.
+3. 각자 푼 문제에 대한 간단한 코드 리뷰를 진행한다.
 
-4. 이후 페어와 코드를 리뷰한다.
+4. 이후 조원과 코드를 리뷰한다.
 
-    -   <sub style="color: #808080; margin-left: 20px;"> 많은 사람과의 코드 리뷰를 위해 페어는 매 주 변경된다.</sub>
+    -   <sub style="color: #808080; margin-left: 20px;"> 많은 사람과의 코드 리뷰를 위해 조는 매 주 변경된다.</sub>
     -   <sub style="color: #808080; margin-left: 20px;"> 코드 리뷰의 원활한 진행을 위해 언어는 `JAVA`를 사용한다.</sub>
 
 5. PR 수정이 끝나고, 본인의 branch는 본인이 관리한다!
-  
-6. 남는 시간엔 페어와 협의 후 조별스터디를 진행한다.
-<br>
 
-※ 페어가 아닌 다른 사람의 코드리뷰를 받고 싶으면,  `Discussions` 를 이용하여 요청하거나, 개인 MM을 이용한다.
 
 <br>
-※ 문제해결에 도움되는 반례를 생성했거나 반례가 필요한 경우, `Discussions` 를 이용한다.
+
+※ 어려움이 있을 경우, 스터디원에게 도움 요청하기. 
+
 
 <br><br>
 
-
-
-
+# 🙏🏻 규칙
 ### 파일 생성 규칙
 
 폴더 명 : "본인 영문 이름"
-하위 폴더 명 : "Site 약자"
+
 <br>
+
 파일 명 : "Site 약자"  +  "문제번호" 
 
 ex)
-`jiseung/boj/boj1004.java` <br>
-`jiseung/swea/swea1004.java`
+`jiseung/boj1004.java` <br>
+`jiseung/swea1004.java`
+
 <br><br>
 
 ### 커밋 규칙
@@ -154,9 +143,9 @@ ex)
 
 ### PR 규칙
 
-PR Title : 이름 / 주차 / 요일
+PR Title : 조이름 이름 / 주차 / 요일
 
-ex)  `김지승 / 8월 1주차 / 목`
+ex)  `1조 김지승 / 8월 1주차 / 목`
 
 PR Comment : 
 
@@ -174,16 +163,10 @@ PR Comment :
     - 왜 이렇게 풀었는지 궁금한 부분
     - 또 다른 풀이 방식 제시
 
-<br>
+<br><br>
 
 
+# 건의사항
 
+- MM채널, 개인 MM을 이용한다.
 
----
-
-### 건의사항
-
-`Discussions` 나 MM채널, 개인 MM을 이용한다.
-
-
----
