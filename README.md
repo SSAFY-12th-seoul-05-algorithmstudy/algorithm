@@ -40,6 +40,10 @@
 | <p align="center"><img src="https://avatars.githubusercontent.com/u/44632544?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/169317520?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/87954515?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/96762267?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/140465587?v=4" style="width:100px;" /></p> |
 | [@LeeSeongHui](https://github.com/LeeSeongHui) | [@strongdoosik](https://github.com/strongdoosik) | [@bangmq](https://github.com/bangmq) | [@01HongNa](https://github.com/01HongNa) | [@ximvamom](https://github.com/ximvamom) |
 | 팀원 | 팀원 | 팀원 | 팀원 | 팀원 |
+| **김태인** | **김민제** | **차수홍** | **권재준** |
+| <p align="center"><img src="https://avatars.githubusercontent.com/u/103629213?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/177278756?v=4" style="width:100px;" /></p> | <p align="center"><img src="" style="width:100px;" /></p> | <p align="center"><img src="" style="width:100px;" /></p> |
+| [@Kim-Taein](https://github.com/Kim-Taein) | [@MJKIM9](https://github.com/MJKIM9) | [@]() | [@]() |
+| 팀원 | 팀원 | 팀원 | 팀원 |
 
 
 <br><br>
