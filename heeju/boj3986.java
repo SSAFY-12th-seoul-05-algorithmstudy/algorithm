@@ -3,10 +3,9 @@ import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
-import java.util.ArrayList;
-import java.util.List;
+import java.util.Stack;
 
-public class Main {
+public class Boj3986 {
 	public static void main(String[] args) throws IOException {
 
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
@@ -16,16 +15,17 @@ public class Main {
 
 		for (int tc = Integer.parseInt(br.readLine()); tc > 0; tc--) {
 			String input = br.readLine();
-			List<String> stack = new ArrayList<>();
+			Stack<String> stack = new Stack<>();
 
 			for (int i = 0; i < input.length(); i++) {
-				//
 				String s = "" + input.charAt(i);
-				if (stack.size() == 0 || !stack.get(stack.size() - 1).equals(s)) {
+				// 1. 스택이 비었거나, 앞 요소와 다를 때
+				if (stack.size() == 0 || !stack.peek().equals(s)) {
 					stack.add(s);
 					continue;
 				}
-				stack.remove(stack.size() - 1);
+				// 2. 스택의 마지막 요소와 같을 때
+				stack.pop();
 			}
 
 			if (stack.size() == 0) {
