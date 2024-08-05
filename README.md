@@ -42,7 +42,7 @@
 | 팀원 | 팀원 | 팀원 | 팀원 | 팀원 |
 | **김태인** | **김민제** | **차수홍** | **권재준** |
 | <p align="center"><img src="https://avatars.githubusercontent.com/u/103629213?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/177278756?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/77662632?v=4" style="width:100px;" /></p> | <p align="center"><img src="https://avatars.githubusercontent.com/u/175368274?v=4" style="width:100px;" /></p> |
-| [@Kim-Taein](https://github.com/Kim-Taein) | [@MJKIM9](https://github.com/MJKIM9) | [@](https://github.com/Xylitol311) | [@](https://github.com/JavaDiff) |
+| [@Kim-Taein](https://github.com/Kim-Taein) | [@MJKIM9](https://github.com/MJKIM9) | [@Xylitol311](https://github.com/Xylitol311) | [@JavaDiff](https://github.com/JavaDiff) |
 | 팀원 | 팀원 | 팀원 | 팀원 |
 
 
