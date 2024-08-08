@@ -2,8 +2,8 @@
 
 package Deque_Queue;
 
+import java.util.ArrayDeque;
 import java.util.Deque;
-import java.util.LinkedList;
 import java.util.Scanner;
 
 class Balloon{
@@ -25,7 +25,7 @@ public class BOJ_2346 {
 		int N = sc.nextInt(); // 풍선 개수
 		
 		Balloon[] balloons = new Balloon[N]; // 풍선 객체 배열
-		Deque<Balloon> deque = new LinkedList<>();
+		Deque<Balloon> deque = new ArrayDeque<>();
 		
 		int num = 1; // 풍선 번호
 		
