@@ -14,9 +14,7 @@ public class boj2346 {
 
         int num = Integer.parseInt(br.readLine());
 
-        // 위치와 각 위치의 이동 값을 저장할 덱을 초기화
         Deque<int[]> list = new ArrayDeque<>();
-        // 입력된 한 줄을 파싱하기 위해 StringTokenizer 사용
         StringTokenizer st = new StringTokenizer(br.readLine());
 
         // 첫 번째 위치를 출력에 추가
