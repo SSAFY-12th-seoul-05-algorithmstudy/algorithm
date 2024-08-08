@@ -9,12 +9,9 @@ public class boj2346 {
 
     public static void main(String[] args) throws IOException {
 
-        // 콘솔로부터 입력을 읽기 위해 BufferedReader를 설정
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        // 효율적으로 출력 문자열을 만들기 위해 StringBuilder 사용
         StringBuilder sb = new StringBuilder();
 
-        // 요소의 개수를 읽음
         int num = Integer.parseInt(br.readLine());
 
         // 위치와 각 위치의 이동 값을 저장할 덱을 초기화
@@ -59,7 +56,6 @@ public class boj2346 {
             }
         }
 
-        // 최종 출력 문자열을 콘솔에 출력
         System.out.println(sb);
     }
 }
