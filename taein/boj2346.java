@@ -9,6 +9,7 @@ public class boj2346 {
 
     public static void main(String[] args) throws IOException {
 
+<<<<<<< HEAD
         // 콘솔로부터 입력을 읽기 위해 BufferedReader를 설정
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         // 효율적으로 출력 문자열을 만들기 위해 StringBuilder 사용
@@ -20,6 +21,14 @@ public class boj2346 {
         // 위치와 각 위치의 이동 값을 저장할 덱을 초기화
         Deque<int[]> list = new ArrayDeque<>();
         // 입력된 한 줄을 파싱하기 위해 StringTokenizer 사용
+=======
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        StringBuilder sb = new StringBuilder();
+
+        int num = Integer.parseInt(br.readLine());
+
+        Deque<int[]> list = new ArrayDeque<>();
+>>>>>>> f4661210b1e540768f0f169f939d106cf5b5e1eb
         StringTokenizer st = new StringTokenizer(br.readLine());
 
         // 첫 번째 위치를 출력에 추가
@@ -59,7 +68,10 @@ public class boj2346 {
             }
         }
 
+<<<<<<< HEAD
         // 최종 출력 문자열을 콘솔에 출력
+=======
+>>>>>>> f4661210b1e540768f0f169f939d106cf5b5e1eb
         System.out.println(sb);
     }
 }

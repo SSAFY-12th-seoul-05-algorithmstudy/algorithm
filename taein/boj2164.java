@@ -17,9 +17,17 @@ public class boj2164 {
 		
 		while(q.size() != 1) {
 			q.poll(); // 제일 위에 있는 카드 버림
+<<<<<<< HEAD
 			q.add(q.poll()); // 그 다음 위에 있는 카드를 제일 아래로 옮김
+=======
+			q.add(q.poll()); // 그 다음 위에 있는 카드를 제일 아래로
+>>>>>>> f4661210b1e540768f0f169f939d106cf5b5e1eb
 		}
 		
 		System.out.println(q.poll());
 	}
+<<<<<<< HEAD
 }
+=======
+}
+>>>>>>> f4661210b1e540768f0f169f939d106cf5b5e1eb
