@@ -1,7 +1,22 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.LinkedList;
+import java.util.Queue;
+import java.util.StringTokenizer;
+>>>>>>> 30e3e44dc02f02563e89496518413f8a4321adae
 
 public class boj1158 {
+	public static void main(String[] args) throws IOException{
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		StringTokenizer st = new StringTokenizer(br.readLine()); // 입력 띄어쓰기 인식
+		StringBuilder rst = new StringBuilder(); // 답 출력
+		Queue<Integer> queue = new LinkedList<>(); // 큐 선언
 
+<<<<<<< HEAD
 =======
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -17,6 +32,8 @@ public class boj1158 {
 		StringBuilder rst = new StringBuilder(); // 답 출력
 		Queue<Integer> queue = new LinkedList<>(); // 큐 선언
 
+=======
+>>>>>>> 30e3e44dc02f02563e89496518413f8a4321adae
 		int N = Integer.parseInt(st.nextToken());
 		int K = Integer.parseInt(st.nextToken());
 		
@@ -40,5 +57,8 @@ public class boj1158 {
 		
 		System.out.println(rst); // 결과 출력
 	}
+<<<<<<< HEAD
 >>>>>>> f4661210b1e540768f0f169f939d106cf5b5e1eb
+=======
+>>>>>>> 30e3e44dc02f02563e89496518413f8a4321adae
 }
