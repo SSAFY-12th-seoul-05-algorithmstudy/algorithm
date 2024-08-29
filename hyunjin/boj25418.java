@@ -1,6 +1,5 @@
 package BFS;
 
-import java.util.ArrayDeque;
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Scanner;
@@ -19,7 +18,7 @@ public class boj25418 {
 
 		bfs(A);
 
-	} // mainㄴ
+	} // main
 
 	static void bfs(int A) {
 		Queue<int[]> queue = new LinkedList<>();
