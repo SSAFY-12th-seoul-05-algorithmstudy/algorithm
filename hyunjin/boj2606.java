@@ -2,7 +2,8 @@ package DFS;
 
 import java.util.Scanner;
 
-public class BOJ2606_바이러스 {
+// BOJ2606_바이러스
+public class boj2606 {
 	public static class Edge {
 		int A, B;
 
@@ -53,7 +54,7 @@ public class BOJ2606_바이러스 {
 			if (findSet(p[i]) == findSet(p[1]))
 				ans++;
 		}
-		System.out.println(ans - 1); // 1번 노드는 개수에 포함 X
+		System.out.println(ans - 1);
 	}
 
 	static void makeSet(int x) {

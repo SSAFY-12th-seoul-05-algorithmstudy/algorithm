@@ -4,7 +4,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class BOJ4963_섬의개수 {
+// BOJ4963_섬의개수
+public class boj4963 {
 
 	static int[] dr = { -1, 1, 0, 0, -1, -1, 1, 1 };
 	static int[] dc = { 0, 0, -1, 1, -1, 1, -1, 1 };
