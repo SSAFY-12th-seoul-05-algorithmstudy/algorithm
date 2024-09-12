@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=SSAFY%2012th%20서울5반)
 
 # 📖SSAFY_서울 5반 알고리즘 스터디
+![Uploading [공지사항] 8월 스터디 이벤트 선정안내문_12기 1학기.png…]()
 
 `SSAFY 12기_서울_5반` 을 위한 알고리즘 스터디입니다.
 
