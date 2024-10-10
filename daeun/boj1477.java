@@ -1,52 +1,55 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.Collections;
 import java.util.Scanner;
 
 public class Main {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
-		int N = sc.nextInt();//애들 수
-		int M = sc.nextInt();//보석 색상 수
-		int[]arr= new int[M];
-		
-		int right=0;
-		
-		for(int i=0; i<M; i++) {
-			arr[i] = sc.nextInt();
-			right = Math.max(right, arr[i]); //색상 중 가장 보석 갯수 많은 것이 right
-		}
-		
-		int left = 1; //보석 하나부터 나눠줄 수 있음
+		int N = sc.nextInt(); // 현재 휴게소 개수
+		int M = sc.nextInt(); // 더 지을 휴게소 개수
+		int L = sc.nextInt();// 고속도리 길이
 
 		
-		int ans =0;
+		int[] road = new int[N+2];
+		road[N+1] = L;
+		
+		for(int i=1; i<=N; i++) {
+			road[i] = sc.nextInt();
+		}
+		
+		
+		Arrays.sort(road);//오름차순 정렬
+		
+		int left = 1;
+		int right = L-1; // 문제에서 범위 주워짐
+		
 		
 		while(left<=right) {
-			int result=0; //결과 ,,몇명에게 나눠주는지 인원 수
-			
-			int mid = (right+left)/2; // 중간값: 나눠줄 수 있는 보석으로 설정
-			
-			for(int i=0; i<M; i++) {
+			int mid = (left+right)/2; // 현재의 가능한 최대 간격
+			int cnt = 0; //세운 휴개소 개수
+			for(int i=0; i<=N; i++) {
+				int dist = road[i+1]-road[i]-1; //거리 차
 				
-				result += arr[i]/mid; 
-				
-				if(arr[i] % mid!=0) {// 안 나눠떨어지면 1명이 더 필요하니까
-					result++;
-				}
+				cnt+= dist / mid; //mid 간격에서 휴게소 몇개 세울수 있는지 세기
+		
 			}
 			
-			if(result>N ) { //애들 수 보다 인원 더 많으면 
-				left = mid+1; 
-						
-			}else { //애들수보다 인원 수 적으면
-				right =mid-1; // 더 작게 나눠줄 수 있는지 다시 검사
-				ans = mid; //일단 가능한 최대의 값
+			if(cnt>M) {//세운숫자가 M보다 많으면 ,,너무 촘촘히 세웠으니까
+				
+				left= mid+1;//조정해서 더 큰 간격으로 탐색
+				
+			}else {//세운게 M보다 적거나 같으면 
+				
+				right = mid-1;
+				
 			}
-					
 			
-			
-		}//while
+	
+		}//while 
 		
-		System.out.println(ans);
+		System.out.println(left);
 		
-	}//main
+	}// main
 
 }
