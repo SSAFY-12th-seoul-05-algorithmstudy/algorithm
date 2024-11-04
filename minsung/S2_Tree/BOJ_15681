@@ -1,0 +1,70 @@
+import java.util.*;
+
+public class Main {
+    static ArrayList<ArrayList<Integer>> tree;
+    static ArrayList<ArrayList<Integer>> children;
+    static int[] parent;
+    static int[] size; // 각 노드를 루트로 하는 서브트리의 크기
+    
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        
+        int N = sc.nextInt(); 
+        int R = sc.nextInt(); 
+        int Q = sc.nextInt(); 
+        
+       
+        tree = new ArrayList<>();
+        children = new ArrayList<>();
+        for(int i = 0; i <= N; i++) {
+            tree.add(new ArrayList<>());
+            children.add(new ArrayList<>());
+        }
+        
+        parent = new int[N + 1];
+        size = new int[N + 1];
+        
+       
+        for(int i = 0; i < N-1; i++) {
+            int U = sc.nextInt();
+            int V = sc.nextInt();
+           
+            tree.get(U).add(V);
+            tree.get(V).add(U);
+        }
+        
+       
+        makeTree(R, -1);
+        
+        
+        countSubtreeSize(R);
+        
+       
+        for(int i = 0; i < Q; i++) {
+            int U = sc.nextInt();
+            System.out.println(size[U]);
+        }
+    }
+    
+    
+    static void makeTree(int current, int prev) {
+        for(int next : tree.get(current)) {
+            if(next != prev) {
+                children.get(current).add(next);
+                parent[next] = current;
+                makeTree(next, current);
+            }
+        }
+    }
+    
+   
+    static int countSubtreeSize(int node) {
+        size[node] = 1; 
+        
+        for(int child : children.get(node)) {
+            size[node] += countSubtreeSize(child);
+        }
+        
+        return size[node];
+    }
+}
